@@ -1,0 +1,1 @@
+export const exusedLeavesColumns = ['employee_number', 'full_name', 'leave_type']

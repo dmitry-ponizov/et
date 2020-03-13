@@ -1,0 +1,13 @@
+const ImagesPath = '/images';
+const IconsPath = `${ImagesPath}/icons`;
+export const LogoIcon = `${IconsPath}/logo.png`;
+export const LogoGreyIcon = `${IconsPath}/logo_grey_bcg.png`;
+export const DownArrowIcon = `${IconsPath}/down_arrow.svg`;
+export const RightArrowIcon = `${IconsPath}/rigth_arrow.svg`;
+export const DropDownArrowIcon = `${IconsPath}/dropdown.svg`;
+export const ArrowDownSortIcon = `${IconsPath}/arrow_down.png`;
+export const ArrowUpSortIcon = `${IconsPath}/arrow_up.png`;
+export const CancelIcon = `${IconsPath}/cancel_icon.png`;
+export const NoAvatarIcon = `${IconsPath}/no_avatar.png`;
+export const UploadAvatarIcon = `${IconsPath}/avatar_default.png`;
+export const AvatarExample = `${ImagesPath}/avatar_example.jpg`;

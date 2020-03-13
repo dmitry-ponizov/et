@@ -1,0 +1,1 @@
+export const absentEmployeesColumns = ['employee_number', 'full_name']

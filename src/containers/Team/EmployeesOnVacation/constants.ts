@@ -1,0 +1,1 @@
+export const employeesOnVacationColumns = ['employee_number', 'full_name', 'start_date']
